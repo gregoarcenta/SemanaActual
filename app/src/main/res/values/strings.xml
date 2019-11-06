@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semana Actual</string>
+    <string name="tv1">Ingrese el numero de semana</string>
+    <string name="button1">Revisar</string>
+    <string name="et2"></string>
+
+</resources>
